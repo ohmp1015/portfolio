@@ -1,17 +1,2 @@
 node_modules/
-dist/
-.vscode/
-.DS_Store
-coverage/
-.idea/
-npm-debug.log
-yarn-error.log
-/build/
-*.log
-*.tsbuildinfo
-.cache/
 .next/
-out/
-public/build/
-.svelte-kit/
-.vite/
