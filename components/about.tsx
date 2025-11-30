@@ -20,7 +20,7 @@ export function About() {
             </p>
             <p className="text-muted-foreground leading-relaxed text-pretty">
               As a recent B.Tech graduate from <span className="text-primary font-medium">Parul University</span>, I've
-              developed and deployed impactful projects including TextUtils, Healthcare Management System, and
+              developed and deployed impactful projects including Taskflow, Healthcare Management System, and
               FoodieSpot. I specialize in full-stack development using technologies like React, Node.js, Express.js, and
               MongoDB.
             </p>
