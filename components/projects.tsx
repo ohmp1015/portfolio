@@ -17,7 +17,7 @@ const projects = [
     title: "PixelVerse",
     description:
       "A sleek and collaborative workspace that lets users create, organize, and edit documents in real time. It includes multilingual translation, an AI assistant for document-based queries, secure sharing, and smooth PDF export — all built for fast, intuitive productivity.",
-    image: "/public/pixel-verse.jpg",
+    image: "/pixel-verse.jpg",
 tags: ["ReactJS", "Node.js", "Express.js", "MongoDB", "React Router", "Context API", "CSS", "Tailwind CSS"],
     github: null,
     live: "https://pixelverse-gamma.vercel.app/",
