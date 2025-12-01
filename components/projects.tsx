@@ -38,7 +38,7 @@ tags: ["ReactJS", "Node.js", "Express.js", "MongoDB", "React Router", "Context A
     image: "/modern-furniture-ecommerce-website-clean-minimal.jpg",
     tags: ["React.js", "CSS", "JavaScript", "Responsive Design"],
     github: "https://github.com/ohmp1015/furniture",
-    live: "https://wood-topaz.vercel.app/",
+    live: "https://furniture-khaki-two.vercel.app/",
   },
   {
     title: "HealthHub",
