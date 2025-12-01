@@ -9,9 +9,18 @@ const projects = [
       "A powerful team collaboration platform enabling users to create, edit, and manage tasks and documents with real-time collaboration. Features multilingual document translation, AI assistant for document Q&A, secure sharing, and PDF export for offline use.",
     image: "/task-management-collaboration-dashboard-dark-theme.jpg",
     tags: ["Next.js", "Convex", "Clerk", "Edgestore", "OpenAI", "Tailwind"],
-    github: "https://github.com/ohmpatel/taskflow",
+    github: "https://github.com/ohmp1015/taskflow",
     live: "https://taskflow-1-rust.vercel.app/",
     role: "Team Leader, Web Designer",
+  },
+  {
+    title: "PixelVerse",
+    description:
+      "A sleek and collaborative workspace that lets users create, organize, and edit documents in real time. It includes multilingual translation, an AI assistant for document-based queries, secure sharing, and smooth PDF export — all built for fast, intuitive productivity.",
+    image: "/public/pixel-verse.jpg",
+tags: ["ReactJS", "Node.js", "Express.js", "MongoDB", "React Router", "Context API", "CSS", "Tailwind CSS"],
+    github: null,
+    live: "https://pixelverse-gamma.vercel.app/",
   },
   {
     title: "FoodieSpot",
@@ -19,7 +28,7 @@ const projects = [
       "A full-stack web application built with the MERN stack, designed to provide a seamless and dynamic food discovery experience for users. Features include restaurant listings, reviews, and user authentication.",
     image: "/food-delivery-app-interface-modern-colorful.jpg",
     tags: ["MongoDB", "Express.js", "React", "Node.js", "Tailwind CSS"],
-    github: "https://github.com/ohmpatel/foodiespot",
+    github: "https://github.com/ohmp1015/foodiespot",
     live: "https://foodie-orpin-pi.vercel.app/",
   },
   {
@@ -28,7 +37,7 @@ const projects = [
       "A responsive web application built with React.js, offering a seamless browsing experience for exploring and purchasing stylish furniture. Features modern UI and smooth animations.",
     image: "/modern-furniture-ecommerce-website-clean-minimal.jpg",
     tags: ["React.js", "CSS", "JavaScript", "Responsive Design"],
-    github: "https://github.com/ohmpatel/furniture",
+    github: "https://github.com/ohmp1015/furniture",
     live: "https://wood-topaz.vercel.app/",
   },
   {
@@ -37,7 +46,7 @@ const projects = [
       "A responsive web application designed to manage patient records and appointments efficiently. Built with core web technologies focusing on usability and accessibility.",
     image: "/healthcare-dashboard-patient-management-system-blu.jpg",
     tags: ["HTML", "CSS", "JavaScript", "Healthcare"],
-    github: null,
+    github: "https://github.com/ohmp1015/HealthHub-main",
     live: "https://health-hub-main.vercel.app/",
   },
 ]
