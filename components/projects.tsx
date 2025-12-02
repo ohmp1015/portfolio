@@ -29,7 +29,7 @@ tags: ["ReactJS", "Node.js", "Express.js", "MongoDB", "React Router", "Context A
     image: "/food-delivery-app-interface-modern-colorful.jpg",
     tags: ["MongoDB", "Express.js", "React", "Node.js", "Tailwind CSS"],
     github: "https://github.com/ohmp1015/foodiespot",
-    live: "https://foodie-orpin-pi.vercel.app/",
+    live: "https://food-sable-kappa-21.vercel.app/",
   },
   {
     title: "Furniture",
